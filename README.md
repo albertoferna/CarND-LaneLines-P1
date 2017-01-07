@@ -1,3 +1,6 @@
+*This is my own fork of project 1. I created it to more easily have access to the code whenever I have some time to work on it and to keep code from different computers in sync.*
+The rest of the readme is kept for reference:
+
 #**Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
